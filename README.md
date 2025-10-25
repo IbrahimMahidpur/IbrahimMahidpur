@@ -40,31 +40,30 @@
 
 ## 💻 Tech Stack & Tools
 
-### Programming Languages
+### Languages
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" height="30"/> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="30"/> 
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/r-project.png" height="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" height="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/julia.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/r-programming.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" height="30"/>
 </p>
 
-### Web & App Development
+### Web Development
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" height="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="30"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/material-ui.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/chakra-ui.png" height="30"/>
 </p>
@@ -76,8 +75,18 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/redis.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/sqlite.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/dynamodb.png" height="30"/>
+</p>
+
+### AI / Machine Learning / NLP
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/keras.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/huggingface.png" height="30"/>
 </p>
 
 ### Data Science & Visualization
@@ -90,29 +99,15 @@
   <img src="https://img.icons8.com/color/48/000000/apache-spark.png" height="30"/>
 </p>
 
-### AI / Machine Learning / NLP
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/hugging-face.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/nltk.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/spacy.png" height="30"/>
-</p>
-
 ### DevOps & Cloud
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/git.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/github-actions.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/github-actions.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/aws.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/azure.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/terraform.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/ansible.png" height="30"/>
@@ -136,20 +131,15 @@
   <img src="https://img.icons8.com/color/48/000000/heroku.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/jira.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/chrome.png" height="30"/>
 </p>
 
 ### APIs & Integrations
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/openai.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/fastapi.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/graphql.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/rest-api.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/postman-api.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/axios.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/zapier.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/make.png" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/n8n.png" height="30"/>
 </p>
 
 
