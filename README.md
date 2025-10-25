@@ -1,4 +1,6 @@
-# Hey, I'm Ibrahim Mahidpurwala 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00B3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ibrahim+Mahidpurwala+👋;Full-Stack+Developer;AI%2FML+Enthusiast;DevOps+%26+Cloud+Learner;Building+Intelligent+Apps+🚀" alt="Typing SVG" />
+</h1>
 
 **Full-Stack Developer | 🤖 AI/ML Enthusiast | ☁️ DevOps & Cloud Learner**  
 Building scalable and intelligent applications 🚀
