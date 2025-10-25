@@ -41,27 +41,27 @@
 ## 💻 Tech Stack & Tools
 
 ### Programming Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,sql,julia,scala,cpp,java,js,ts" height="30"/>
 </p>
 
 ### Web & App Development
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,graphql,html,css,sass,tailwind,bootstrap,chakraui,materialui" height="30"/>
 </p>
 
 ### Databases
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite,dynamodb" height="30"/>
 </p>
 
 ### Data Science & Visualization
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,seaborn,powerbi,tableau,apache-spark" height="30"/>
 </p>
 
 ### AI / Machine Learning / NLP
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,keras,tensorflow,pytorch,opencv,huggingface" height="30"/>
   <img src="https://img.shields.io/badge/NLTK-FF4500?style=for-the-badge&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/spaCy-FF9900?style=for-the-badge&logoColor=white" height="30"/>
@@ -69,21 +69,20 @@
 </p>
 
 ### DevOps & Cloud
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,jenkins,aws,azure,gcp,terraform,ansible,prometheus,grafana,linux" height="30"/>
 </p>
 
 ### APIs & Integrations
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=openai,fastapi,restapi,graphql,postman,requests,axios,zapier,make,n8n" height="30"/>
 </p>
 
 ### Tools & IDEs
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,figma,notion,slack,discord,vercel,netlify,heroku,jira,trello,chrome" height="30"/>
 </p>
 
----
 
 ## 📊 Skill Bars
 
