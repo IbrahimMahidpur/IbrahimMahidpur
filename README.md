@@ -1,15 +1,11 @@
-<!-- 🌟 Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00B3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ibrahim+Mahidpurwala+👋;Full-Stack+Developer;AI%2FML+Enthusiast;DevOps+%26+Cloud+Learner;Building+Intelligent+Apps+🚀" alt="Typing SVG" />
-</h1>
+# Hey, I'm Ibrahim Mahidpurwala 👋
 
+**Full-Stack Developer | 🤖 AI/ML Enthusiast | ☁️ DevOps & Cloud Learner**  
+Building scalable and intelligent applications 🚀
 
-<p align="center">
-  <em>🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | ☁️ DevOps & Cloud Learner</em><br/>
-  <em>Turning innovative ideas into scalable and intelligent applications.</em>
-</p>
+---
 
-<!-- 🌐 Social Links -->
+## 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-mahidpur-wala-a50088296/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -55,12 +51,17 @@
 
 ### AI / Machine Learning / NLP
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,keras,tensorflow,pytorch,opencv,huggingface" height="30"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,keras,tensorflow,pytorch" height="30"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FEE101?style=for-the-badge&logo=huggingface&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Ollama-FF5733?style=for-the-badge&logoColor=white" height="30"/>
 </p>
 
 ### Data Science & Visualization
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,seaborn,powerbi,tableau,apache-spark" height="30"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,seaborn,apache-spark" height="30"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
 </p>
 
 ### DevOps & Cloud
@@ -84,29 +85,29 @@
 
 ### Programming & Web Development
 <p>
-  Python <img src="https://img.shields.io/badge/██████90%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  JavaScript <img src="https://img.shields.io/badge/█████85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  React <img src="https://img.shields.io/badge/█████85%25-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  Node.js <img src="https://img.shields.io/badge/█████80%25-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  Express.js <img src="https://img.shields.io/badge/█████80%25-000000?style=for-the-badge&logo=express&logoColor=white"/>
+Python <img src="https://img.shields.io/badge/██████90%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+JavaScript <img src="https://img.shields.io/badge/█████85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+React <img src="https://img.shields.io/badge/█████85%25-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+Node.js <img src="https://img.shields.io/badge/█████80%25-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+Express.js <img src="https://img.shields.io/badge/█████80%25-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### AI & ML
 <p>
-  TensorFlow <img src="https://img.shields.io/badge/██████80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  PyTorch <img src="https://img.shields.io/badge/██████75%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  Scikit-learn <img src="https://img.shields.io/badge/██████85%25-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  Pandas <img src="https://img.shields.io/badge/██████90%25-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  NumPy <img src="https://img.shields.io/badge/██████90%25-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+TensorFlow <img src="https://img.shields.io/badge/██████80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+PyTorch <img src="https://img.shields.io/badge/██████75%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+Scikit-learn <img src="https://img.shields.io/badge/██████85%25-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+Pandas <img src="https://img.shields.io/badge/██████90%25-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+NumPy <img src="https://img.shields.io/badge/██████90%25-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ### DevOps & Cloud
 <p>
-  Docker <img src="https://img.shields.io/badge/██████85%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  Kubernetes <img src="https://img.shields.io/badge/██████70%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  Git <img src="https://img.shields.io/badge/██████95%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  AWS <img src="https://img.shields.io/badge/██████80%25-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  Azure <img src="https://img.shields.io/badge/██████70%25-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+Docker <img src="https://img.shields.io/badge/██████85%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+Kubernetes <img src="https://img.shields.io/badge/██████70%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+Git <img src="https://img.shields.io/badge/██████95%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+AWS <img src="https://img.shields.io/badge/██████80%25-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+Azure <img src="https://img.shields.io/badge/██████70%25-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
