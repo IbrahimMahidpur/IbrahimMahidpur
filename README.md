@@ -128,4 +128,16 @@ Azure <img src="https://img.shields.io/badge/██████70%25-0078D4?styl
     <img src="https://img.shields.io/badge/Nyaybandhu-Chatbot-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Vrinda-Education%20ML-purple?style=for-the-badge&logo
+    <img src="https://img.shields.io/badge/Vrinda-Education%20ML-purple?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Signify-Smart%20IoT-cyan?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+I love blending **AI + Web + Cloud** to transform ideas into **live, intelligent applications** 🌐🤖☁️  
+
+<p align="center"><em>“Code smart. Deploy fast. Scale confidently.”</em></p>
