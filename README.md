@@ -198,6 +198,6 @@ Azure <img src="https://img.shields.io/badge/██████70%25-0078D4?styl
 ---
 
 ## ✨ Fun Fact
-I love blending **AI + Web + Cloud** to transform ideas into **live, intelligent applications** 🌐🤖☁️  
+<p align="center">I love blending **AI + Web + Cloud** to transform ideas into **live, intelligent applications** 🌐🤖☁️</p>
 
 <p align="center"><em>“Code smart. Deploy fast. Scale confidently.”</em></p>
