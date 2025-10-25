@@ -1,10 +1,11 @@
 <!-- 🌟 Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ibrahim+Mahidpurwala+👋;Full-Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+DevOps+Learner;Building+Scalable+%26+Intelligent+Apps+🚀;Turning+Ideas+Into+Reality+With+Code+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00B3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ibrahim+Mahidpurwala+👋;Full-Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+DevOps+Learner;Building+Scalable+%26+Intelligent+Apps+🚀;Turning+Ideas+Into+Reality+With+Code+💡" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | 🤖 AI/ML Enthusiast | ☁️ DevOps & Cloud Learner</strong>
+  <strong>Full-Stack Developer | 🤖 AI/ML Enthusiast | ☁️ DevOps & Cloud Learner</strong><br/>
+  <em>Turning innovative ideas into scalable and intelligent applications.</em>
 </p>
 
 ---
@@ -38,61 +39,47 @@
 
 ## 💻 Tech Stack & Tools
 
-### 1️⃣ Programming Languages
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,julia,scala" height="30"/>
+  <img src="https://skillicons.dev/icons?i=python,r,sql,julia,scala,cpp,java,js,ts" height="30"/>
 </p>
 
-### 2️⃣ Data Manipulation & Analysis
+### Web & App Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy" height="30"/>
-  <img src="https://img.shields.io/badge/dplyr-1E90FF?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/tidyr-FF6347?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/data.table-32CD32?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,graphql,html,css,sass,tailwind,bootstrap,chakraui,materialui" height="30"/>
 </p>
 
-### 3️⃣ Data Visualization
+### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,jupyter,plotly,altair" height="30"/>
-  <img src="https://img.shields.io/badge/ggplot2-FF69B4?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Looker-3EB489?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite,dynamodb" height="30"/>
 </p>
 
-### 4️⃣ Machine Learning & Deep Learning
+### Data Science & Visualization
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=scikitlearn,xgboost,lightgbm,catboost,tensorflow,keras,pytorch" height="30"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,seaborn,powerbi,tableau,apache-spark" height="30"/>
 </p>
 
-### 5️⃣ NLP (Natural Language Processing)
+### AI / Machine Learning / NLP
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nltk,spacy" height="30"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FEE101?style=for-the-badge&logo=huggingface&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Gensim-FF9900?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/TextBlob-FF4500?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,keras,tensorflow,pytorch,opencv,huggingface" height="30"/>
+  <img src="https://img.shields.io/badge/NLTK-FF4500?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/spaCy-FF9900?style=for-the-badge&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Transformers-FEE101?style=for-the-badge&logo=huggingface&logoColor=black" height="30"/>
 </p>
 
-### 6️⃣ APIs & Integrations
+### DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,express,graphql,postman,requests,axios" height="30"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Make-FF69B4?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/n8n-232F3E?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,jenkins,aws,azure,gcp,terraform,ansible,prometheus,grafana,linux" height="30"/>
 </p>
 
-### 7️⃣ Big Data & Cloud Tools
+### APIs & Integrations
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spark,hadoop" height="30"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux" height="30"/>
+  <img src="https://skillicons.dev/icons?i=openai,fastapi,restapi,graphql,postman,requests,axios,zapier,make,n8n" height="30"/>
 </p>
 
-### 8️⃣ Dashboard & Reporting
+### Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,dash,shiny" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,figma,notion,slack,discord,vercel,netlify,heroku,jira,trello,chrome" height="30"/>
 </p>
 
 ---
@@ -129,18 +116,16 @@ Azure <img src="https://img.shields.io/badge/██████70%25-0078D4?styl
 ---
 
 ## 🏗️ Projects Showcase
+
 <p align="center">
-| Project | Description | Link |
-|---------|-------------|------|
-| **Sanjeewani** | Health-tech AI project | [GitHub](#) |
-| **Vaani** | AI-powered voice assistant | [GitHub](#) |
-| **Nyaybandhu** | Chatbot with LLM & voice integration | [GitHub](https://github.com/IbrahimMahidpur/Nyaybandhu) |
-| **Vrinda** | Education & ML platform | [GitHub](#) |
-| **Signify** | Smart IoT solutions | [GitHub](#) |
-</p>
-
----
-
-## ✨ Fun Fact
-I love blending **full-stack development**, **AI/ML**, and **cloud technologies** to build apps that make a real-world impact. 🚀
-
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Sanjeewani-Health%20AI-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Vaani-Voice%20Assistant-orange?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/IbrahimMahidpur/Nyaybandhu" target="_blank">
+    <img src="https://img.shields.io/badge/Nyaybandhu-Chatbot-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Vrinda-Education%20ML-purple?style=for-the-badge&logo
