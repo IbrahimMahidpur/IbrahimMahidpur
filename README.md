@@ -42,46 +42,116 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,julia,scala,cpp,java,js,ts" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/r-project.png" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/julia.png" height="30"/>
 </p>
 
 ### Web & App Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,graphql,html,css,sass,tailwind,bootstrap,chakraui,materialui" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/chakra-ui.png" height="30"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite,dynamodb" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/sqlite.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/dynamodb.png" height="30"/>
 </p>
 
 ### Data Science & Visualization
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,seaborn,powerbi,tableau,apache-spark" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" height="30"/>
 </p>
 
 ### AI / Machine Learning / NLP
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,keras,tensorflow,pytorch,opencv,huggingface" height="30"/>
-  <img src="https://img.shields.io/badge/NLTK-FF4500?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/spaCy-FF9900?style=for-the-badge&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Transformers-FEE101?style=for-the-badge&logo=huggingface&logoColor=black" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/keras.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/hugging-face.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/nltk.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/spacy.png" height="30"/>
 </p>
 
 ### DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,jenkins,aws,azure,gcp,terraform,ansible,prometheus,grafana,linux" height="30"/>
-</p>
-
-### APIs & Integrations
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,fastapi,restapi,graphql,postman,requests,axios,zapier,make,n8n" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/github-actions.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/prometheus.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" height="30"/>
 </p>
 
 ### Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,figma,notion,slack,discord,vercel,netlify,heroku,jira,trello,chrome" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/anaconda.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/notion.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/slack-new.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/vercel.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/netlify.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/heroku.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/chrome.png" height="30"/>
 </p>
+
+### APIs & Integrations
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/openai.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/rest-api.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/axios.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/zapier.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/make.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/n8n.png" height="30"/>
+</p>
+
 
 
 ## 📊 Skill Bars
