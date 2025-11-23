@@ -26,18 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMahidpur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMahidpur&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimMahidpur&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 💻 Tech Stack & Tools
 
 ### Languages
