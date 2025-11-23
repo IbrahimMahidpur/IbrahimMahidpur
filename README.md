@@ -38,13 +38,6 @@
 
 ---
 
-# 🐍 Contribution Activity (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IbrahimMahidpur/IbrahimMahidpur/output/snake.svg" alt="Contribution Snake Grid" />
-</p>
-
----
-
 # 💻 Tech Stack & Tools
 
 ### 🚀 Programming Languages
